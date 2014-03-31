@@ -1,0 +1,12 @@
+{
+  "name": "toasty_node_blog",
+  "description": "Toasty Code blog using static file serving with Assemble",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependecies": {
+    "grunt": "*",
+    "assemble": "*"
+  }
+}
